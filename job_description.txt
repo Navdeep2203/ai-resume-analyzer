@@ -1,0 +1,2 @@
+We are looking for a software engineer with skills in Python, SQL, Machine Learning, Docker and AWS.
+Experience with data analysis and Pandas is preferred.

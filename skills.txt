@@ -1,0 +1,19 @@
+python
+java
+c++
+sql
+machine learning
+deep learning
+pandas
+numpy
+tensorflow
+pytorch
+nlp
+data analysis
+docker
+aws
+kubernetes
+html
+css
+javascript
+react
